@@ -10,5 +10,6 @@
 
 Результаты оцениваются по среднему количеству попыток при 10000 повторений. Необходимо добиться минимального количество попыток.
 
-{Код алгоритма на Python 3.8.8} (https://github.com/Shahmatov/data_science/blob/main/game_v2.py)
-{Notebook Jupyter} ()
+Код алгоритма на Python 3.8.8 (https://github.com/Shahmatov/data_science/blob/main/game_v2.py)
+
+Notebook Jupyter (https://github.com/Shahmatov/data_science/blob/main/game.ipynb)
